@@ -1,7 +1,7 @@
 # hh-comp-challenge-1
 
 ## original comp img
-<img src="http://frontend.turing.io/assets/images/static-comp-challenge-2.jpg">
+![Screenshot](static-comp-challenge-1-img)
 
 ## my comp img
 ![Screenshot](hh-comp-challenge-1-img.png)
