@@ -4,3 +4,4 @@
 <img src="http://frontend.turing.io/assets/images/static-comp-challenge-2.jpg">
 
 ## my comp img
+<img src="hh-comp-challenge-1-img">
